@@ -41,7 +41,7 @@ local Services = setmetatable({
 	 end
 	 
 	 local CurrentLetter = 0 
-	 local Clantag = "Storm.Tap"
+	 local Clantag = "DriftWare"
 	 
 	 while wait(0.3) do 
 		Services.LocalPlayer.OsPlatform = "|"..Clantag:sub(0, CurrentLetter).." " 
